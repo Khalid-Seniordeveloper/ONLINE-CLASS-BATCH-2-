@@ -1,0 +1,11 @@
+button{
+    border: 0;
+    background-color: yellowgreen;
+    color: green;
+    transition: .3s;
+    padding: 10px 10px;
+}
+button:hover{
+    background-color: green;
+    color:yellowgreen;
+}
