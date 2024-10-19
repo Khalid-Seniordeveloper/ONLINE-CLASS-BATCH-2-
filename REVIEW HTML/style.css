@@ -1,0 +1,10 @@
+img{
+    text-align: center;
+}
+.image{
+    display: flex;
+    justify-content: center;
+}
+pre{
+    border: 2px solid black ;
+}
