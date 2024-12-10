@@ -1,0 +1,46 @@
+html{
+    font-size: 62.5%;
+
+}
+
+/* font size only worik on "rem"  */
+
+.child-container{
+    width : 10rem;
+    height : 10rem;
+    background-color: black;
+}
+.parent-container{
+    width: 100%;
+    height: 40rem;
+    background-color : yellow;
+    display : flex ;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+#wallpaper{
+    width: 30rem;
+}
+
+/* dispay : flex  */ 
+/* items us parent div me woh row me shift hojaengy  */
+/* justify content ==> horizontal (rowwise)  */
+/* align items ==> vertically (column wise)  */
+
+
+/* flex-direction : cloumn  */
+/* opposite hoga  */
+/* justify content ==> vertical (columnwise)  */
+/* align items ==> horixontal (rowwise wise)  */
+
+
+/* html saray sizes ko count krta hy font size me  */
+
+
+@media(max-width : 400px){
+    html{
+        font-size: 30%;
+    }
+}

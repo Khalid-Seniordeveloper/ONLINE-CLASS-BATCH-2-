@@ -1,0 +1,42 @@
+/* .main-div{
+    width: 98%;
+    height: 500px;
+    border: 5px double black;
+}
+#head{
+    text-align: center;
+    margin-top: 70px;
+}
+#image-container{
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+}
+.navigation-container{
+    display: flex;
+    gap: 30px;
+    justify-content: center;
+    border: 1px solid black;
+ padding: 10px;
+}
+.navigation-container li{
+     list-style-type: none;
+}
+#para{
+    text-align: center;
+} */
+
+.sub-div{
+    width: 20px;
+    height: 20px;
+    background-color: purple;
+    border: 1px solid greenyellow;
+}
+#parent-div{
+    width: 100%;
+    height: 60px;
+    background-color: yellow;
+    display: flex;
+    align-items: center;
+  justify-content: space-evenly;
+}

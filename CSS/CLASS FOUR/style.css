@@ -1,0 +1,16 @@
+
+body{
+    background-color: black;
+    background-image: url(https://up.yimg.com/ib/th?id=OIP.ufYgzDl2lgVgWL_IAaCV4QHaEK&pid=Api&rs=1&c=1&qlt=95&w=215&h=120);
+    background-repeat: no-repeat ;
+    background-size: 100%;
+}
+
+#container{
+    width : 200px;
+    height: 200px; 
+    background-color: yellow;
+    border: 5px double bz;
+    padding: 20px;
+    margin: 20px;
+}

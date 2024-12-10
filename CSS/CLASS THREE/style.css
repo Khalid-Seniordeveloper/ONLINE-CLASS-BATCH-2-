@@ -1,0 +1,22 @@
+#btn{
+    color: greenyellow;
+    background-color: green;
+   border: 0;
+    border-radius: 10px;
+    padding: 10px 20px;
+}
+
+#btn:hover{
+    color:  orange;
+    background-color: yellow;
+   
+}
+
+/* #container{
+    width: 200px;
+    height : 200px ;
+    border : 1px solid black;
+    color: green;
+    margin : 90px;
+
+} */

@@ -1,0 +1,29 @@
+/* #head-six{
+    font-size: 20px;
+    text-align: center ;
+
+}
+
+.para{
+    text-align: center;
+    font-size: 20px;
+} */
+
+/* .head{
+    text-transform: capitalize;
+} */
+ .head{
+    /* text-decoration: none; */
+    /* color: black; */
+    text-shadow: 20px 20px 20px gray;
+ }
+
+#para::first-letter {
+       color: red;
+       font-size: 40px;
+}
+
+#para::first-line{
+    color: green;
+    font-size: 50px;
+}
